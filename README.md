@@ -9,4 +9,6 @@ Bounce randomly selects from a list of samples and assigns them to each monitor.
 a new set of samples (often the same ones) are sent out to each monitor. You hear some fun sounds that are addicting.
 It's addicting. Press again! Press again! Keep pressing, trying to get your favorite sounds to come back.
 
+![](screenshot.png)
+
 Bounce was made using Max 7, and it is only intended to be an audience-participation based art project.
